@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2eeccecd-fbdd-4d37-b018-d151e06ce97d": {
+      "ProjectGuid": "2eeccecd-fbdd-4d37-b018-d151e06ce97d",
+      "DisplayName": "中国铁路客运里程计算",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
